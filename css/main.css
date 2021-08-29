@@ -1,4 +1,15 @@
-res-section {
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+*{
+    font-family: sans-serif;
+}
+
+.res-section {
 	color:black;
 }
 
@@ -9,3 +20,16 @@ table, th, td {
   table {
     border-spacing: 3px;
   }
+
+.cs2300 {
+    background-color: chartreuse;
+}
+.cs2370 {
+    background-color: yellow;
+}
+.cs2550 {
+    background-color: turquoise;
+}
+.math100R {
+    background-color: pink;
+}
